@@ -25,7 +25,6 @@ public class Author{
         return gender;
     }
 
-    @Override
     public String toString() {
         return "Author{" +
                 "name='" + name + '\'' +
